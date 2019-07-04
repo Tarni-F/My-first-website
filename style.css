@@ -1,5 +1,5 @@
 body {
-	font-family: 'Indie Flower', cursive;
+	font-family: 'Libre Franklin', sans-serif;
 }
 
 h2,
@@ -9,5 +9,9 @@ h5,
 h6,
 
 h1 {
-	font-family: 'Anton', sans-serif;
+	font-family: 'Martel', serif;
+}
+
+.navbar-brand img{
+	width:100px;
 }

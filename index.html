@@ -8,18 +8,50 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
  <link rel="stylesheet" href="style.css">
-    <title>Hello, world!</title>
+    <title>Flynn's Arcade</title>
 	  <!-- Import Google Fonts -->
-	 <link href="https://fonts.googleapis.com/css?family=Anton|Indie+Flower&display=swap" rel="stylesheet">
+	 <link href="https://fonts.googleapis.com/css?family=Libre+Franklin|Martel&display=swap" rel="stylesheet"">
 	  
   </head>
   <body>
-    <h1>Welcome to Flynns arcade!</h1>
- <div id="menu" class="container-fluid"><!-- Start menu container -->
+ 
+ <div id="navbar" class="container-fluid"><!-- Start navbar container -->
+  
+  <nav class="navbar navbar-expand-lg navbar-light info-color">
+    <a class="navbar-brand" href="#"><img src="logo.png"/></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+               <a class="nav-link waves-effect waves-light" href="home.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link waves-effect waves-light" href="specials&deals.html">Specials & Deals</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link waves-effect waves-light" href="contact.html">Contact Us</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle waves-effect waves-light" id="navbarDropdownMenuLink"               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gaming Platforms</a>
+                <div class="dropdown-menu dropdown-info" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item waves-effect waves-light" href="#">PS4</a>
+                    <a class="dropdown-item waves-effect waves-light" href="#">xBox</a>
+                    <a class="dropdown-item waves-effect waves-light" href="#">PC</a>
+                </div>
+            </li>
+        </ul>
+        <form class="form-inline">
+            <div class="md-form my-0">
+                <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+            </div>
+        </form>
+    </div>
+</nav>
   
   
-  
-</div><!--End menu container-->
+</div><!--End navbar container-->
 <div id="herobanner" class="container-fluid"><!-- Start hero slider-->
   
   
