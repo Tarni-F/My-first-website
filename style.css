@@ -17,4 +17,5 @@ h1 {
 }
 #footer {background-color:blue; color:#fff} 
 
-#lowerfooter {background-color:darkblue; color:#fff} 
+#lowerfooter {background-color:darkblue} 
+#lowerfooter i {font-size:65px; color:#fff; margin:24px 16px 24px 16px  }
