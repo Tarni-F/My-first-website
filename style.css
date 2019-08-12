@@ -12,14 +12,22 @@ h1 {
 	font-family: 'Martel', serif;
 }
 
+.navbar {background-color:#fff;}
 .navbar-brand img{
 	width:100px;
 }
-#footer {background-color:blue; color:#fff} 
+#footer {background-color:blue; color:#fff } 
 
 #lowerfooter {background-color:darkblue} 
 #lowerfooter i {font-size:65px; color:#fff; margin:24px 16px 24px 16px  }
 
-#store-assistance i{ font-size:80px; margin:24px 16px 24px 16px; color:#D004FB   }
+.memberBenefits i {font-size:150px;color:#fff; margin: 24px 15px 24px 15px;
+padding: 30px
+}
+.memberBenefits p {font-size:25px;color:#fff;margin-top:12px
 
-.navbar {background-color:#fff;}
+}
+.mBBox { background-color:#E97F0B;padding:20px; Border-radius:30px
+
+}
+
