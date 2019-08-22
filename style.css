@@ -16,6 +16,13 @@ h1 {
 .navbar-brand img{
 	width:100px;
 }
+
+.breadcrumb{
+	font-size; 25px;
+}
+
+
+
 #footer {background-color:blue; color:#fff } 
 
 #lowerfooter {background-color:darkblue} 
