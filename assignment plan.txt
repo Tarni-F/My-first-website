@@ -1,0 +1,145 @@
+IST ASSIGNMENT PLAN
+
+DESIGN BRIEF
+Flynns arcade has been slowly losing money as the trend for accessing video games has moved away from social 
+'video game arcades'to at home 'video game consoles' such as; Atari and Commadore 64. Flynn wants to reposition
+his business as a venue for selling new games and trading used games. Flynn wants you to create 'alpha phase'
+website that communicates his new business model.
+
+
+
+AREAS OF INVESTIGATION
+
+- WEBSITE DESIGN
+
+
+- WIREFRAMES
+
+
+- HTML & CSS
+
+
+- FLYNNS AESTHETIC
+
+
+- BOOTSTRAP
+
+
+- NOTEPAD++
+
+
+- INDESIGN
+
+
+- DREAMWAVER
+
+
+- DATA COMMUNICATIONS
+
+
+- CONSOLES
+
+
+
+
+
+
+
+
+
+DESIGN SKETCHES
+
+1. MOOD BOARD
+
+
+2. WIREFRAME
+
+
+3. LOGO
+
+
+4. COLOUR PALETTE
+
+
+
+
+
+
+
+
+FINAL CONCEPT DESIGN
+
+
+- WIREFRAME
+
+
+- COLOUR SCHEME
+
+
+- FEATURES FROM BOOTSTRAP
+
+
+- FEATURES FROM CSS
+
+
+- PRODUCTS DISPLAYED ETC
+
+
+
+
+
+
+
+DESIGN CHANGES
+
+- VARIATIONS OF COLOURS
+
+
+- VARIATIONS OF WEB DESIGN
+
+
+- ORIGINAL IDEA COMPARED TO CURRENT MODEL
+
+
+- FEATURE CHOICES
+
+
+- EXTRAS ADDED INTO THE WEBSITE
+
+
+
+
+
+
+
+
+EVALUATION
+
+
+- GOOD/BAD FEATURES OF WEBSITE?
+
+
+- WHAT WOULD YOU DO DIFFERENTLY?
+
+
+- WHAT WOULD CONSUMER THINK OF?
+
+
+- WHAT DID YOU USE AS INSPIRATION?
+
+
+- WHY DID YOU USE THIS AS INSPIRATION?
+
+
+- PERSONAL INPUT?
+
+
+- IMPROVEMENTS?
+
+
+- RESTRICTIONS?
+
+
+- POSSIBILITIES/OPPORTUNITIES?
+
+
