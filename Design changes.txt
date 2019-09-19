@@ -1,0 +1,9 @@
+design changes = 
+
+Throughout the design process, the website design had faced ,many different changes. From fonts, to themes to stylde of the herobanner. The website consistantly changed as different components become either irrelevant or did not suit the wireframe I had imagened.  
+
+The first design change I had made was my colour theme, i had chosen colours that were too light for the image that was in mind. I changed the blues and orange colours I had chosen into darker versions as based of the theme of 'Tron Legacy' it had to be darker. 
+
+Another design change was the fonts. I had originally chosen fonts that has little tails (not noticible although still there) and reading the text wasnt clear, hence the fonts currently used are; Libre Franklin for normal text and use Martel Sans for titles and headers as they are clear to read.  
+
+A change that was made, was also based off of a programming difficulty. In the products container sectioning the different product boxes was difficult. No margin, padding or column size could change the wreck that was the products. On the application bootstrap, I found the card components which I was able to place side by side, have even sized photos and also have text underneath describing the games.
